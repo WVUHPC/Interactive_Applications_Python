@@ -98,11 +98,14 @@ displayed if the 'eventbrite' field in the header is not set.
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="280px"
+  height="380px"
   scrolling="auto">
 </iframe>
 {% endif %}
 
+<h2 text-align="center">
+<a href="https://wvuhpc.github.io/Interactive-Applications-Python">Lesson Webpage</a> 
+</h2>
 
 <h2 id="general">General Information</h2>
 
